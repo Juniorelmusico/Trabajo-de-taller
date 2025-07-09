@@ -513,14 +513,6 @@ public class MemoryCollection
 - Incluye tests para el código nuevo
 - Mantén la consistencia con los patrones existentes
 
-## 📞 Soporte
-
-¿Tienes preguntas o problemas?
-
-- 📧 **Email**: [tu-email@ejemplo.com]
-- 🐛 **Issues**: [GitHub Issues](https://github.com/tu-usuario/design-patterns-vehicle-system/issues)
-- 📖 **Documentación**: [Wiki del Proyecto](https://github.com/tu-usuario/design-patterns-vehicle-system/wiki)
-
 ## 📄 Licencia
 
 Este proyecto está licenciado bajo la [MIT License](LICENSE) - ver el archivo LICENSE para más detalles.
