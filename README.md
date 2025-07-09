@@ -530,11 +530,3 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE) - ver el archivo L
 </div>
 
 ---
-
-## 📊 Estadísticas del Proyecto
-
-- **Patrones Implementados**: 6
-- **Clases Totales**: 15+
-- **Líneas de Código**: 1000+
-- **Cobertura de Tests**: En desarrollo
-- **Documentación**: 100% completa 
